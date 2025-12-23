@@ -18,7 +18,7 @@
 ---
 
 ## ✨ Application Preview
-
+“This is an object-oriented Python GUI application using Tkinter that simulates a calculator interface, evaluates grades using conditional logic, animates progress visually, stores history, and exports data to CSV.”
 <p align="center">
   <img src="assets/app_demo.gif" width="70%">
 </p>
