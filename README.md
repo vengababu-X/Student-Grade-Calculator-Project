@@ -59,6 +59,7 @@
 ---
 
 ## 📂 Project Structure
+```
 Student-Grade-Calculator/ 
 ├── app.py 
 ├── README.md
@@ -68,7 +69,7 @@ Student-Grade-Calculator/
 ├── app_demo.gif 
 └── architecture.svg
 
-
+```
 ---
 
 ## ▶️ How to Run
